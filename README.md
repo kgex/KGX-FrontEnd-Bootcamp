@@ -2,4 +2,29 @@
 
 # WEEK 1 JS AND DOM
 
-![image](https://github.com/kgex/KGX-FrontEnd-Bootcamp/assets/97246670/e78a1c22-5995-489f-9349-34759df7a569)
+/document.getElementById
+// document.getElementsByClassName
+// document.getElementsByTagName
+// document.querySelector
+// document.querySelectorAll
+// children 
+// childNodes
+// parentElement
+// parentNode
+// closest 
+// next sibling
+
+
+// createElement
+// innerText
+// textContent
+// append
+// appendChild
+// remove
+//removechild
+// setAttributes
+// removeAttributes
+// dataset
+// classList add and remove 
+// style
+// eve n handling
